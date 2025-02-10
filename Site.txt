@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Site para teste de funções do HTML</title>
+</head>
+<body>
+    <h1>Esse é um cabeçalho!</h1>
+    <br> <!-- Essa é uma quebra de linha! -->
+    <p>Esse é um parágrafo!</p>
+    <br>
+    <b>Esse é um texto em negrito!</b>
+    <br>
+    <i>Esse é um texto em itálico!</i>
+    <br>
+    <u>Esse é um texto sublinhado!</u>
+    <br>
+    <s>Esse é um texto riscado!</s>
+    <br>
+    <!-- Esse é um comentário, mas não vai aparecer no site final! -->
+    <img src="https://www.google.com.br/google.jpg" alt="Essa é uma imagem e o texto alternativo!">
+    <a href="https://www.google.com.br">Esse é um link!</a>
+    <ul>
+        <li>Esse é um item de lista não organizada!</li>
+        <li>Esse é outro item de lista não organizada!</li>
+    </ul>
+    <ol>
+        <li>Esse é um item de lista organizada!</li>
+        <li>Esse é outro item de lista organizada!</li>
+    </ol>
+    <button>Esse é um botão!</button>
+    <script>
+        alert("Esse é um alerta!");
+    </script>
+    <div>
+        <h2>Esse é um subtítulo dentro de uma divisão!</h2>
+        <p>Esse é um parágrafo dentro de uma divisão!</p>
+    </div>
+    <iframe src="https://www.google.com.br"> Esse é um iframe! </iframe>
+    <details>
+        <summary>Esse é um resumo!</summary>
+        <p>Esse é um detalhe!</p>
+    </details>
+    <menu>
+        <li>Esse é um item de menu!</li>
+        <li>Esse é outro item de menu!</li>
+    </menu>
+</body>
+</html>
