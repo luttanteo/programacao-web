@@ -1,0 +1,38 @@
+#container .cabecalho {  
+    background-color: rgb(0, 204, 255);
+    text-align: center;
+}
+
+#container .menu {  
+    background-color: rgba(30, 255, 0, 0.568);
+    text-align: center;
+    width: 420px;
+}
+
+#container .barra {  
+    background-color: rgba(30, 255, 0, 0.555);
+    text-align: center;
+    width: 420px;
+}
+
+#container .principal {  
+    background-color: rgba(255, 230, 0, 0.87);
+    text-align: center;
+    width: 500px;
+}
+
+#container .rodape {    
+    background-color: rgba(255, 0, 0, 0.774);
+    text-align: center;
+}   
+
+#container {
+    display: flex;
+    flex-direction: column;
+    padding: 5%;
+
+}
+#meio {
+    display: flex;
+    flex-wrap: wrap;
+}
